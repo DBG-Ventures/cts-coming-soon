@@ -10,7 +10,10 @@ const data = {
     socialIconsHeading: "Follow Us 📣",
     hideSubscribeForm: true, // make true to disable subscription form 
     socialIcons: [
-
+        {
+            icon: "linkedin",
+            link: "#",
+        },
     ],
 }
 
